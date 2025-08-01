@@ -9,7 +9,7 @@ Interactive Power BI dashboard for e-commerce sales, built on a star schema. Des
 - What actions should leadership take next?
 
 ## 🛠️ Technical Details
-- **Data Model:** Star schema (Fact: data, Dimensions: Products, Customers, Calendar)
+- **Data Model:** Star schema (Fact: data, Dimensions: Products, Customers, Calendar)(Restructured the raw e-commerce dataset into a star schema, keeping only transaction data and keys in the fact table, and all descriptive details in dimension tables. This ensures clean, high-performance analytics and reliable business insights—the industry standard for enterprise BI)
 - **Data Cleaning:** Duplicates removed, keys uppercased, Calendar table marked as Date table for DAX time intelligence
 - **DAX Measures:** Total Revenue, Distinct Customers, Total Orders, YoY growth, Top N products, etc.
 - **Time Intelligence:** Slicers and visuals support dynamic analysis by month, year, and country
