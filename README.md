@@ -1,6 +1,3 @@
-# ecommerce-powerbi-dashboard
-End-to-end Power BI dashboard for e-commerce sales: star schema data model, DAX-driven KPIs, and business-focused analysis.
-
 # E-Commerce Executive Dashboard (Power BI)
 
 ## 🚀 Overview
@@ -24,8 +21,8 @@ Interactive Power BI dashboard for e-commerce sales, built on a star schema. Des
 
 ## 📂 Files Included
 - `Ecommerce_Executive_Dashboard.pbix` — Power BI file
-- `model_screenshot.png` — Data model (star schema)
-- `dashboard_screenshot.png` — Main dashboard view
+- `STARSCHEMA.png` — Data model (star schema)
+- `dashboard1.png` — Main dashboard view
 
 ## 👤 About Me
 Medical Laboratory Technician pivoting to remote data analytics. 8+ years in scientific environments utilizing data analysis, now leveraging Python, Power BI, and SQL for business impact.
