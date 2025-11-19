@@ -1,5 +1,8 @@
 # E-Commerce Executive Dashboard (Power BI)
 
+<img src="dashboard1.png" width="800">
+
+
 ## 🚀 Overview
 Interactive Power BI dashboard for e-commerce sales, built on a star schema. Designed to answer executive-level business questions and drive data-driven action.
 
